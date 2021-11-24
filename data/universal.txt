@@ -1,4 +1,4 @@
-# 全局列表
+# global list
 
 akuaishou.com
 baijiahao.baidu.com
