@@ -1,7 +1,18 @@
 # 全局列表
 
+02516.com
+9eip.com
+114066.com
+114la.com
+1616.net
+123.sougou.com
+2345.com
+265.com
+5566.net
+7999.com
 akuaishou.com
 baijiahao.baidu.com
+bao118.com
 bdxiguaimg.com
 bytecdn.cn
 bytedance.com
@@ -18,6 +29,7 @@ douyinmusicclips.com
 douyinmusicvideo.com
 douyinshortvideo.com
 douyinvideo.net
+duba.com
 dymusictape.com
 dymusicvideo.com
 dyshortvideo.com
@@ -28,9 +40,14 @@ etoote.com
 growingio.com
 huoshanimg.com
 huoshanzhibo.com
+hao123.com
+hao.qq.com
+hao.360.com
+h5.mse.360.cn
 idouyinpic.com
 idouyinvod.com
 iesdouyin.net
+iedh.com
 ilive.qq.com
 inkuai.com
 ixiguavideo.com
@@ -62,3 +79,4 @@ weishi.qq.com
 xiongzhang.baidu.com
 yximgs.com
 zijiecdn.com
+zhaozhaola.com
