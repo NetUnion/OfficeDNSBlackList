@@ -10,3 +10,7 @@ ttwebview.com
 vzuu.com
 yximgs.com
 zijiecdn.com
+*.com
+*.cn
+*.org
+*.net
