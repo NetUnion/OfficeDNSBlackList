@@ -2,7 +2,7 @@
 
 WEB_IP="172.20.168.252"
 
-for file in ./data/*.txt; do
+for file in ./blacklists/*.txt; do
   if [ -f "$file" ]; then
     while read p; 
     do
