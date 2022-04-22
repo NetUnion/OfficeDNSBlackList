@@ -1,8 +1,6 @@
 #!/bin/bash
 
-if [ -f "aggregated.conf" ]; then
-  rm aggregated.conf
-fi
+rm aggregated.conf
 
 for file in $PWD/*.conf; do
   echo "$file"
